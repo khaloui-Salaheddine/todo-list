@@ -1,6 +1,6 @@
 # Auto Typing Effect
 
-![cover](./assets/text.gif)
+![cover](./assets/todo-list.png)
 
 ## 🦉 Main information
 
